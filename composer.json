@@ -1,0 +1,12 @@
+{
+    "name": "asmisha/email-to-vk",
+    "authors": [
+        {
+            "name": "Michael Astashkevich",
+            "email": "asmisha@tut.by"
+        }
+    ],
+    "require": {
+        "google/apiclient": "1.*",
+    }
+}
